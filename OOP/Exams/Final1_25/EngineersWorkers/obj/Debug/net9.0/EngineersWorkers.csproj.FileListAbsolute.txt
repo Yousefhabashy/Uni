@@ -1,0 +1,14 @@
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\bin\Debug\net9.0\EngineersWorkers.exe
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\bin\Debug\net9.0\EngineersWorkers.deps.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\bin\Debug\net9.0\EngineersWorkers.runtimeconfig.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\bin\Debug\net9.0\EngineersWorkers.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\bin\Debug\net9.0\EngineersWorkers.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\EngineersWorkers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\EngineersWorkers.AssemblyInfoInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\EngineersWorkers.AssemblyInfo.cs
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\EngineersWorkers.csproj.CoreCompileInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\EngineersWorkers.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\refint\EngineersWorkers.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\EngineersWorkers.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\EngineersWorkers.genruntimeconfig.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final1_25\EngineersWorkers\obj\Debug\net9.0\ref\EngineersWorkers.dll
