@@ -1,0 +1,14 @@
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\bin\Debug\net9.0\ProductsClass.exe
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\bin\Debug\net9.0\ProductsClass.deps.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\bin\Debug\net9.0\ProductsClass.runtimeconfig.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\bin\Debug\net9.0\ProductsClass.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\bin\Debug\net9.0\ProductsClass.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\ProductsClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\ProductsClass.AssemblyInfoInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\ProductsClass.AssemblyInfo.cs
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\ProductsClass.csproj.CoreCompileInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\ProductsClass.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\refint\ProductsClass.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\ProductsClass.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\ProductsClass.genruntimeconfig.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\ProductsClass\obj\Debug\net9.0\ref\ProductsClass.dll

@@ -1,0 +1,14 @@
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\bin\Debug\net9.0\MedicalCenter.exe
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\bin\Debug\net9.0\MedicalCenter.deps.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\bin\Debug\net9.0\MedicalCenter.runtimeconfig.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\bin\Debug\net9.0\MedicalCenter.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\bin\Debug\net9.0\MedicalCenter.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\MedicalCenter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\MedicalCenter.AssemblyInfoInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\MedicalCenter.AssemblyInfo.cs
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\MedicalCenter.csproj.CoreCompileInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\MedicalCenter.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\refint\MedicalCenter.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\MedicalCenter.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\MedicalCenter.genruntimeconfig.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Mid4_25\MedicalCenter\obj\Debug\net9.0\ref\MedicalCenter.dll
