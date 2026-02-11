@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{84AC6F08-43BB-407D-80C9-5E42E4966154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{18B70855-62D4-4AA7-9106-8922570BC0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{A6F106CD-C5ED-45B9-B780-054DF2958A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AC6F08-43BB-407D-80C9-5E42E4966154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AC6F08-43BB-407D-80C9-5E42E4966154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AC6F08-43BB-407D-80C9-5E42E4966154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AC6F08-43BB-407D-80C9-5E42E4966154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B70855-62D4-4AA7-9106-8922570BC0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B70855-62D4-4AA7-9106-8922570BC0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B70855-62D4-4AA7-9106-8922570BC0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B70855-62D4-4AA7-9106-8922570BC0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F106CD-C5ED-45B9-B780-054DF2958A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F106CD-C5ED-45B9-B780-054DF2958A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F106CD-C5ED-45B9-B780-054DF2958A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F106CD-C5ED-45B9-B780-054DF2958A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EB7D0A3-0B50-48B8-BD30-FF6873C8885C}
+	EndGlobalSection
+EndGlobal

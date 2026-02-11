@@ -1,0 +1,14 @@
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\bin\Debug\net9.0\Shapes.exe
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\bin\Debug\net9.0\Shapes.deps.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\bin\Debug\net9.0\Shapes.runtimeconfig.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\bin\Debug\net9.0\Shapes.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\bin\Debug\net9.0\Shapes.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\Shapes.AssemblyInfoInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\Shapes.AssemblyInfo.cs
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\Shapes.csproj.CoreCompileInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\Shapes.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\refint\Shapes.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\Shapes.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\Shapes.genruntimeconfig.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\ChatGPTExam\Shapes\obj\Debug\net9.0\ref\Shapes.dll

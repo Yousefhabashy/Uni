@@ -1,0 +1,14 @@
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\bin\Debug\net9.0\School.exe
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\bin\Debug\net9.0\School.deps.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\bin\Debug\net9.0\School.runtimeconfig.json
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\bin\Debug\net9.0\School.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\bin\Debug\net9.0\School.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\School.GeneratedMSBuildEditorConfig.editorconfig
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\School.AssemblyInfoInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\School.AssemblyInfo.cs
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\School.csproj.CoreCompileInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\School.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\refint\School.dll
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\School.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\School.genruntimeconfig.cache
+E:\Habashy\uni\3rd_Level\1st_Term\OOP\Exams\Final4_25\School\obj\Debug\net9.0\ref\School.dll
