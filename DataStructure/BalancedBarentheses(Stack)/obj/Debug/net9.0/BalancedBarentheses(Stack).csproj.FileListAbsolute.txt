@@ -1,0 +1,14 @@
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\BalancedBarentheses(Stack).GeneratedMSBuildEditorConfig.editorconfig
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\BalancedBarentheses(Stack).AssemblyInfoInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\BalancedBarentheses(Stack).AssemblyInfo.cs
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\BalancedBarentheses(Stack).csproj.CoreCompileInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\bin\Debug\net9.0\BalancedBarentheses(Stack).exe
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\bin\Debug\net9.0\BalancedBarentheses(Stack).deps.json
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\bin\Debug\net9.0\BalancedBarentheses(Stack).runtimeconfig.json
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\bin\Debug\net9.0\BalancedBarentheses(Stack).dll
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\bin\Debug\net9.0\BalancedBarentheses(Stack).pdb
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\BalancedBarentheses(Stack).dll
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\refint\BalancedBarentheses(Stack).dll
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\BalancedBarentheses(Stack).pdb
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\BalancedBarentheses(Stack).genruntimeconfig.cache
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\BalancedBarentheses(Stack)\obj\Debug\net9.0\ref\BalancedBarentheses(Stack).dll
