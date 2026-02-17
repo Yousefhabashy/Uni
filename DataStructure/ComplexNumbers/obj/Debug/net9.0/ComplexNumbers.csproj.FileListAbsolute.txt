@@ -1,0 +1,4 @@
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\ComplexNumbers\obj\Debug\net9.0\ComplexNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\ComplexNumbers\obj\Debug\net9.0\ComplexNumbers.AssemblyInfoInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\ComplexNumbers\obj\Debug\net9.0\ComplexNumbers.AssemblyInfo.cs
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\ComplexNumbers\obj\Debug\net9.0\ComplexNumbers.csproj.CoreCompileInputs.cache
