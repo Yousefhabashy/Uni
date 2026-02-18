@@ -1,0 +1,14 @@
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\bin\Debug\net9.0\DoublyLinkedListAddition.exe
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\bin\Debug\net9.0\DoublyLinkedListAddition.deps.json
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\bin\Debug\net9.0\DoublyLinkedListAddition.runtimeconfig.json
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\bin\Debug\net9.0\DoublyLinkedListAddition.dll
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\bin\Debug\net9.0\DoublyLinkedListAddition.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\DoublyLinkedListAddition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\DoublyLinkedListAddition.AssemblyInfoInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\DoublyLinkedListAddition.AssemblyInfo.cs
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\DoublyLinkedListAddition.csproj.CoreCompileInputs.cache
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\DoublyLinkedListAddition.dll
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\refint\DoublyLinkedListAddition.dll
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\DoublyLinkedListAddition.pdb
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\DoublyLinkedListAddition.genruntimeconfig.cache
+E:\Habashy\uni\3rd_Level\1st_Term\DataStructure\Final\DoublyLinkedListAddition\obj\Debug\net9.0\ref\DoublyLinkedListAddition.dll
